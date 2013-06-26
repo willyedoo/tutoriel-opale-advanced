@@ -1,0 +1,4 @@
+tutoriel-opale-advanced
+=======================
+
+Nous avons le plaisir de vous présenter l'application complète sur l'ingénierie pédagogique avec Opale Advanced. De la création des modules à la publication des fichiers SCORM, nous y expliquons de manière détaillée le processus de publication des cours. Vous n'avez pas besoin d'être un expert en bureautique encore moins en langage de programmation pour produire des cours qui ont une mise en forme parfaite, une table de matière automatique, des format HTML, SCORM pour la publication en ligne. La conception d'activité interactifs et évalués avec remontée des scores des apprenants. Sans oublier la sauvegarde de vos fichier pour des modifications ultérieures. Ne perdez plus une minute commander votre exemplaire de L'ingénierie pédagogique avec Opale Advanced
